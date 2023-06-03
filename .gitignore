@@ -1,2 +1,5 @@
-Coding_Grind/bin
-
+*/bin
+*/.project
+*/.settings
+*/.classpath
+*/.DS_Store
